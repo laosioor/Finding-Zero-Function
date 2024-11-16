@@ -1,2 +1,2 @@
 This is a assignment for Numerical Calculation class.
-Made by @RezeScarlet and @laosioor
+<a href="https://github.com/RezeScarlet">RezeScarlet</a> and <a href="https://github.com/laosioor">laosioor</a>
